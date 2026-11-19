@@ -1,6 +1,10 @@
 # Netflix-Data-Analysis-Tableau-Dashboard
 Developed an interactive Tableau dashboard to analyze Netflix's movies and TV shows, exploring geographical distribution, content ratings, genre popularity, release-year trends, and content additions through dynamic filters and data visualizations.
 
+## Dashboard Preview
+
+![Netflix Tableau Dashboard](dashboard-preview.png)
+
 **1. Project Overview**
 
 This project focuses on analyzing and visualizing Netflix's content catalogue using Tableau. The objective is to explore the distribution, characteristics, and trends of movies and television shows available on Netflix through an interactive and visually informative dashboard.
